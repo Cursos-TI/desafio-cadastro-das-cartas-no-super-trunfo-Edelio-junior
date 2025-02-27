@@ -54,5 +54,21 @@ printf("dados adquiridos\n");
 printf("Estados: %s\n", estado1);
 printf("cidade:[A01]: %s\n", cidade1);
 printf("Populacao: %d\n", populacao1);
+printf("Area: %f\n", area1);
+printf("PIB: %f\n", pib1);
+printf("Pontos turisticos: %d\n", turismo1);
+
+
+printf("cidade:[A02]: %s\n", cidade2);
+printf("Populacao: %d\n", populacao2);
+printf("Area: %f\n", area2);
+printf("PIB: %f\n", pib2);
+printf("Pontos turisticos: %d\n", turismo2);
+
+printf("cidade:[A03]: %s\n", cidade3);
+printf("Populacao: %d\n", populacao3);
+printf("Area: %f\n", area3);
+printf("PIB: %f\n", pib3);
+printf("Pontos turisticos: %d\n", turismo3);
     return 0;
 }
